@@ -46,6 +46,12 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.humanize',
+    
+    'base',
+    'userauths',
+    'taggit',
+    'cripsy_forms',
+    'django_social_share',
 ]
 
 MIDDLEWARE = [
